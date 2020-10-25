@@ -1,1 +1,1 @@
-Thr first git tutorial and experiment.
+Thr first git tutorial and experiment. Added extra contents to check out branching changes.
